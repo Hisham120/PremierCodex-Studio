@@ -14,3 +14,6 @@ print(message)
 # Simple loop to print numbers
 for i in range(5):
     print(f"Number: {i}")
+    
+future_age = age + 5
+print(f"In five years, you will be {future_age} years old.")
